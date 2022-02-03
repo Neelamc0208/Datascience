@@ -1,0 +1,18 @@
+
+
+Total profit: 815.33
+Quantity selection Ratio:
+C1 1 
+C2 1 
+C3 0 
+C4 1 
+C5 0.667 
+C6 0 
+
+Total Quantity of each coin sold:
+C1 6
+C2 8
+C3 0 
+C4 2
+C5 1.333 
+C6 0 
